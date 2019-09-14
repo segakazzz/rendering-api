@@ -1,1 +1,11 @@
 /* Type whatever CSS you need here! */
+
+#content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#content div{
+    margin: 10px;
+}
